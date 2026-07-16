@@ -1,6 +1,7 @@
 import sharp from 'sharp';
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 
 const OUT = '/Users/ivanpang/Desktop/choeae-stickers';
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main';
@@ -32,11 +33,109 @@ const PACKS = [
       'https://www.figma.com/community/file/1240354284418405901/grunged-peeled-stickers-free',
     sourceDir: '/Users/ivanpang/Downloads/GRUNGED peeled stickers FREE (Community)',
   },
+  {
+    id: 'free-stickers',
+    name: 'Free Stickers Pack',
+    author: 'Sergey Korobkoff',
+    authorUrl: 'https://www.figma.com/@korobkoff',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1115952276212246903/free-stickers-pack',
+    sourceDir: '/Users/ivanpang/Downloads/Free Stickers pack (Community)',
+  },
+  {
+    id: 'word-clippings',
+    name: 'Word Clippings Retro Stickers',
+    author: 'Dirtybarn',
+    authorUrl: 'https://dirtybarn.com/',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl:
+      'https://www.figma.com/community/file/1455532408821014814/word-clippings-retro-stickers-free',
+    sourceDir: '/Users/ivanpang/Downloads/Word Clippings - Retro Stickers FREE (Community)',
+  },
+  {
+    id: 'retro-stickers',
+    name: 'Retro Stickers',
+    author: 'Design Garage',
+    authorUrl: 'https://www.figma.com/@des_garage',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1358236713751987058/retro-stickers-free',
+    sourceDir: '/Users/ivanpang/Downloads/🖖 RETRO  STICKERS FREE (Community)',
+  },
+  {
+    id: 'project-status',
+    name: 'Project Status Stickers',
+    author: 'Iconfinder',
+    authorUrl: 'https://www.figma.com/@Iconfinder',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1128224635870836270/project-status-stickers',
+    sourceDir: '/Users/ivanpang/Downloads/Project status stickers (Community)',
+  },
+  {
+    id: 'brix-stickers',
+    name: '100+ Stickers & Shapes',
+    author: 'BRIX Templates',
+    authorUrl: 'https://www.figma.com/@brixtemplates',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl:
+      'https://www.figma.com/community/file/1131717954098372689/100-stickers-shapes-brix-templates',
+    // Merged from multiple download folders of the same Figma file.
+    sourceDirs: [
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community)',
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (1)',
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (2)',
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (3)',
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (4)',
+      '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (5)',
+    ],
+  },
+  {
+    id: 'y2k-chromed',
+    name: 'Y2K Chromed',
+    author: 'Seeing Watching',
+    authorUrl: 'https://www.figma.com/@seeingwatching',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1457071600671965131/y2k-chromed-free',
+    sourceDir: '/Users/ivanpang/Downloads/Y2k chromed free (Community)',
+  },
+  {
+    id: 'y2k-pixel-icons',
+    name: 'Y2K Abstract Pixel Icons',
+    author: 'Seif Designera',
+    authorUrl: 'https://www.figma.com/@digitaltelega',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1622310464019186799/y2k-abstract-pixel-icons',
+    sourceDir: '/Users/ivanpang/Downloads/Y2K Abstract Pixel Icons (Community)',
+  },
+  {
+    id: 'brutalism-elements',
+    name: 'Brutalism Elements',
+    author: 'Seif Designera',
+    authorUrl: 'https://www.figma.com/@digitaltelega',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1638166204238617118/brutalism-elements',
+    sourceDir: '/Users/ivanpang/Downloads/Brutalism Elements (Community)',
+  },
 ];
 
 function slugFromFilename(filename) {
   const base = path.basename(filename, path.extname(filename));
-  // "My project-10" -> "10"; "03" -> "03"
+  // Prefer full descriptive slug when the name has text (e.g. "01 Hot", "Figure 1").
+  // Fall back to trailing digits only for bare numbered exports like "03.png".
+  if (/[a-zA-Z]/.test(base)) {
+    return base
+      .toLowerCase()
+      .replace(/&/g, 'and')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
+  }
   const m = base.match(/(\d+)\s*$/);
   if (m) return m[1].padStart(2, '0');
   return base
@@ -45,9 +144,27 @@ function slugFromFilename(filename) {
     .replace(/^-|-$/g, '');
 }
 
+function sha1File(filePath) {
+  return crypto.createHash('sha1').update(fs.readFileSync(filePath)).digest('hex');
+}
+
+function listPngSources(pack) {
+  const dirs = pack.sourceDirs ?? (pack.sourceDir ? [pack.sourceDir] : []);
+  const entries = [];
+  dirs.forEach((dir, batch) => {
+    const files = fs
+      .readdirSync(dir)
+      .filter((f) => f.toLowerCase().endsWith('.png'))
+      .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+    for (const file of files) {
+      entries.push({ batch, dir, file, src: path.join(dir, file) });
+    }
+  });
+  return entries;
+}
+
 async function convertOne(srcPath, hdPath, thumbPath) {
-  const img = sharp(srcPath).ensureAlpha();
-  const meta = await img.metadata();
+  const meta = await sharp(srcPath).metadata();
   const w = meta.width || HD_MAX;
   const h = meta.height || HD_MAX;
   const hdScale = Math.min(1, HD_MAX / Math.max(w, h));
@@ -71,8 +188,10 @@ async function convertOne(srcPath, hdPath, thumbPath) {
 }
 
 async function main() {
-  fs.rmSync(OUT, { recursive: true, force: true });
-  fs.mkdirSync(OUT, { recursive: true });
+  // Keep .git / scripts; only rebuild pack assets + catalog.
+  const packsRoot = path.join(OUT, 'packs');
+  fs.rmSync(packsRoot, { recursive: true, force: true });
+  fs.mkdirSync(packsRoot, { recursive: true });
 
   const catalog = { version: 1, packs: [] };
 
@@ -83,30 +202,29 @@ async function main() {
     fs.mkdirSync(hdDir, { recursive: true });
     fs.mkdirSync(thumbDir, { recursive: true });
 
-    const pngs = fs
-      .readdirSync(pack.sourceDir)
-      .filter((f) => f.toLowerCase().endsWith('.png'))
-      .sort((a, b) => {
-        const na = parseInt(slugFromFilename(a), 10);
-        const nb = parseInt(slugFromFilename(b), 10);
-        if (!Number.isNaN(na) && !Number.isNaN(nb) && na !== nb) return na - nb;
-        return a.localeCompare(b);
-      });
-
+    const multiDir = Array.isArray(pack.sourceDirs) && pack.sourceDirs.length > 0;
+    const sources = listPngSources(pack);
+    const seen = new Set();
     const stickers = [];
-    for (const file of pngs) {
-      const slug = slugFromFilename(file);
+
+    for (const entry of sources) {
+      const hash = sha1File(entry.src);
+      if (seen.has(hash)) {
+        console.log(`${pack.id}: skip dup ${entry.file}`);
+        continue;
+      }
+      seen.add(hash);
+
+      const baseSlug = slugFromFilename(entry.file);
+      const slug = multiDir ? `b${entry.batch}-${baseSlug}` : baseSlug;
       const filename = `${slug}.webp`;
-      const src = path.join(pack.sourceDir, file);
-      const hdPath = path.join(hdDir, filename);
-      const thumbPath = path.join(thumbDir, filename);
-      await convertOne(src, hdPath, thumbPath);
+      await convertOne(entry.src, path.join(hdDir, filename), path.join(thumbDir, filename));
       stickers.push({
         id: `${pack.id}-${slug}`,
         thumbnailUrl: `${CDN_BASE}/packs/${pack.id}/thumbnails/${filename}`,
         hdUrl: `${CDN_BASE}/packs/${pack.id}/hd/${filename}`,
       });
-      console.log(`${pack.id}: ${file} -> ${filename}`);
+      console.log(`${pack.id}: ${entry.file} -> ${filename}`);
     }
 
     catalog.packs.push({
@@ -142,6 +260,14 @@ These packs are **CC BY 4.0**. Credit the original authors when redistributing.
 |------|--------|--------|---------|
 | Y2K Hologram Badges | [Design Garage](https://www.figma.com/@des_garage) | [Figma Community](https://www.figma.com/community/file/1386684185250424926/y2k-hologram-badge-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | GRUNGED Peeled Stickers | [Artsem Pachabut](https://www.figma.com/@artyompochebut) | [Figma Community](https://www.figma.com/community/file/1240354284418405901/grunged-peeled-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Free Stickers Pack | [Sergey Korobkoff](https://www.figma.com/@korobkoff) | [Figma Community](https://www.figma.com/community/file/1115952276212246903/free-stickers-pack) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Word Clippings Retro Stickers | [Dirtybarn](https://dirtybarn.com/) | [Figma Community](https://www.figma.com/community/file/1455532408821014814/word-clippings-retro-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Retro Stickers | [Design Garage](https://www.figma.com/@des_garage) | [Figma Community](https://www.figma.com/community/file/1358236713751987058/retro-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Project Status Stickers | [Iconfinder](https://www.figma.com/@Iconfinder) | [Figma Community](https://www.figma.com/community/file/1128224635870836270/project-status-stickers) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 100+ Stickers & Shapes | [BRIX Templates](https://www.figma.com/@brixtemplates) | [Figma Community](https://www.figma.com/community/file/1131717954098372689/100-stickers-shapes-brix-templates) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Y2K Chromed | [Seeing Watching](https://www.figma.com/@seeingwatching) | [Figma Community](https://www.figma.com/community/file/1457071600671965131/y2k-chromed-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Y2K Abstract Pixel Icons | [Seif Designera](https://www.figma.com/@digitaltelega) | [Figma Community](https://www.figma.com/community/file/1622310464019186799/y2k-abstract-pixel-icons) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Brutalism Elements | [Seif Designera](https://www.figma.com/@digitaltelega) | [Figma Community](https://www.figma.com/community/file/1638166204238617118/brutalism-elements) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## Layout
 

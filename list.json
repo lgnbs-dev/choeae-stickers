@@ -194,6 +194,2242 @@
           "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/30.webp"
         }
       ]
+    },
+    {
+      "id": "free-stickers",
+      "name": "Free Stickers Pack",
+      "author": "Sergey Korobkoff",
+      "authorUrl": "https://www.figma.com/@korobkoff",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1115952276212246903/free-stickers-pack",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/01.webp",
+      "stickers": [
+        {
+          "id": "free-stickers-01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/01.webp"
+        },
+        {
+          "id": "free-stickers-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/04.webp"
+        },
+        {
+          "id": "free-stickers-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/05.webp"
+        },
+        {
+          "id": "free-stickers-06",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/06.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/06.webp"
+        },
+        {
+          "id": "free-stickers-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/08.webp"
+        },
+        {
+          "id": "free-stickers-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/09.webp"
+        },
+        {
+          "id": "free-stickers-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/11.webp"
+        },
+        {
+          "id": "free-stickers-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/12.webp"
+        },
+        {
+          "id": "free-stickers-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/13.webp"
+        },
+        {
+          "id": "free-stickers-15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/15.webp"
+        },
+        {
+          "id": "free-stickers-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/16.webp"
+        },
+        {
+          "id": "free-stickers-17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/17.webp"
+        },
+        {
+          "id": "free-stickers-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/18.webp"
+        },
+        {
+          "id": "free-stickers-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/19.webp"
+        },
+        {
+          "id": "free-stickers-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/20.webp"
+        },
+        {
+          "id": "free-stickers-21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/21.webp"
+        },
+        {
+          "id": "free-stickers-22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/22.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/22.webp"
+        },
+        {
+          "id": "free-stickers-23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/23.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/23.webp"
+        },
+        {
+          "id": "free-stickers-24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/24.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/24.webp"
+        },
+        {
+          "id": "free-stickers-25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/25.webp"
+        },
+        {
+          "id": "free-stickers-28",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/28.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/28.webp"
+        },
+        {
+          "id": "free-stickers-29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/thumbnails/29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/free-stickers/hd/29.webp"
+        }
+      ]
+    },
+    {
+      "id": "word-clippings",
+      "name": "Word Clippings Retro Stickers",
+      "author": "Dirtybarn",
+      "authorUrl": "https://dirtybarn.com/",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1455532408821014814/word-clippings-retro-stickers-free",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/01-hot.webp",
+      "stickers": [
+        {
+          "id": "word-clippings-01-hot",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/01-hot.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/01-hot.webp"
+        },
+        {
+          "id": "word-clippings-02-cool",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/02-cool.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/02-cool.webp"
+        },
+        {
+          "id": "word-clippings-03-free",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/03-free.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/03-free.webp"
+        },
+        {
+          "id": "word-clippings-04-power",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/04-power.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/04-power.webp"
+        },
+        {
+          "id": "word-clippings-05-great",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/05-great.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/05-great.webp"
+        },
+        {
+          "id": "word-clippings-06-seriously",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/06-seriously.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/06-seriously.webp"
+        },
+        {
+          "id": "word-clippings-07-loveholic",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/07-loveholic.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/07-loveholic.webp"
+        },
+        {
+          "id": "word-clippings-08-who",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/08-who.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/08-who.webp"
+        },
+        {
+          "id": "word-clippings-09-for-you",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/09-for-you.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/09-for-you.webp"
+        },
+        {
+          "id": "word-clippings-10-tranqui",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/10-tranqui.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/10-tranqui.webp"
+        },
+        {
+          "id": "word-clippings-11-last-call",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/11-last-call.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/11-last-call.webp"
+        },
+        {
+          "id": "word-clippings-12-patience",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/12-patience.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/12-patience.webp"
+        },
+        {
+          "id": "word-clippings-13-free-spirit",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/13-free-spirit.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/13-free-spirit.webp"
+        },
+        {
+          "id": "word-clippings-14-love-is-messy",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/14-love-is-messy.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/14-love-is-messy.webp"
+        },
+        {
+          "id": "word-clippings-15-heartbreaker",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/15-heartbreaker.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/15-heartbreaker.webp"
+        },
+        {
+          "id": "word-clippings-16-dejavu",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/16-dejavu.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/16-dejavu.webp"
+        },
+        {
+          "id": "word-clippings-17-nostalgic-bitch",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/17-nostalgic-bitch.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/17-nostalgic-bitch.webp"
+        },
+        {
+          "id": "word-clippings-18-anxiety",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/18-anxiety.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/18-anxiety.webp"
+        },
+        {
+          "id": "word-clippings-19-hell-yesss",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/19-hell-yesss.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/19-hell-yesss.webp"
+        },
+        {
+          "id": "word-clippings-20-new-rules",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/20-new-rules.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/20-new-rules.webp"
+        },
+        {
+          "id": "word-clippings-21-vision",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/21-vision.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/21-vision.webp"
+        },
+        {
+          "id": "word-clippings-22-wow",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/22-wow.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/22-wow.webp"
+        },
+        {
+          "id": "word-clippings-23-unique",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/23-unique.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/23-unique.webp"
+        },
+        {
+          "id": "word-clippings-24-exclusive",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/24-exclusive.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/24-exclusive.webp"
+        },
+        {
+          "id": "word-clippings-25-cherrybomb",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/25-cherrybomb.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/25-cherrybomb.webp"
+        },
+        {
+          "id": "word-clippings-26-fantastic",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/26-fantastic.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/26-fantastic.webp"
+        },
+        {
+          "id": "word-clippings-27-best",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/27-best.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/27-best.webp"
+        },
+        {
+          "id": "word-clippings-28-magic",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/28-magic.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/28-magic.webp"
+        },
+        {
+          "id": "word-clippings-29-have-fun",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/29-have-fun.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/29-have-fun.webp"
+        },
+        {
+          "id": "word-clippings-30-so-what",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/30-so-what.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/30-so-what.webp"
+        },
+        {
+          "id": "word-clippings-31-nice",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/31-nice.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/31-nice.webp"
+        },
+        {
+          "id": "word-clippings-32-lonely-hearts-club",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/32-lonely-hearts-club.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/32-lonely-hearts-club.webp"
+        },
+        {
+          "id": "word-clippings-33-easy-peasy",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/33-easy-peasy.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/33-easy-peasy.webp"
+        },
+        {
+          "id": "word-clippings-34-sorry",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/34-sorry.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/34-sorry.webp"
+        },
+        {
+          "id": "word-clippings-35-gambler",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/35-gambler.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/35-gambler.webp"
+        },
+        {
+          "id": "word-clippings-36-no-idea",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/36-no-idea.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/36-no-idea.webp"
+        },
+        {
+          "id": "word-clippings-37-chill",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/37-chill.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/37-chill.webp"
+        },
+        {
+          "id": "word-clippings-38-bitchin",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/38-bitchin.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/38-bitchin.webp"
+        },
+        {
+          "id": "word-clippings-39-never-ever",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/39-never-ever.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/39-never-ever.webp"
+        },
+        {
+          "id": "word-clippings-40-maybe-tonight",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/40-maybe-tonight.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/40-maybe-tonight.webp"
+        },
+        {
+          "id": "word-clippings-41-dear-god",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/41-dear-god.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/41-dear-god.webp"
+        },
+        {
+          "id": "word-clippings-42-flow",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/42-flow.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/42-flow.webp"
+        },
+        {
+          "id": "word-clippings-43-lucky",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/43-lucky.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/43-lucky.webp"
+        },
+        {
+          "id": "word-clippings-44-better-together",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/44-better-together.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/44-better-together.webp"
+        },
+        {
+          "id": "word-clippings-45-true-love",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/45-true-love.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/45-true-love.webp"
+        },
+        {
+          "id": "word-clippings-46-you-win",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/46-you-win.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/46-you-win.webp"
+        },
+        {
+          "id": "word-clippings-47-sensational",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/47-sensational.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/47-sensational.webp"
+        },
+        {
+          "id": "word-clippings-48-special",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/48-special.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/48-special.webp"
+        },
+        {
+          "id": "word-clippings-49-friday",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/49-friday.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/49-friday.webp"
+        },
+        {
+          "id": "word-clippings-50-pleasure",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/thumbnails/50-pleasure.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/word-clippings/hd/50-pleasure.webp"
+        }
+      ]
+    },
+    {
+      "id": "retro-stickers",
+      "name": "Retro Stickers",
+      "author": "Design Garage",
+      "authorUrl": "https://www.figma.com/@des_garage",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1358236713751987058/retro-stickers-free",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/01.webp",
+      "stickers": [
+        {
+          "id": "retro-stickers-01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/01.webp"
+        },
+        {
+          "id": "retro-stickers-02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/02.webp"
+        },
+        {
+          "id": "retro-stickers-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/03.webp"
+        },
+        {
+          "id": "retro-stickers-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/04.webp"
+        },
+        {
+          "id": "retro-stickers-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/05.webp"
+        },
+        {
+          "id": "retro-stickers-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/09.webp"
+        },
+        {
+          "id": "retro-stickers-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/10.webp"
+        },
+        {
+          "id": "retro-stickers-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/11.webp"
+        },
+        {
+          "id": "retro-stickers-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/12.webp"
+        },
+        {
+          "id": "retro-stickers-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/13.webp"
+        },
+        {
+          "id": "retro-stickers-17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/17.webp"
+        },
+        {
+          "id": "retro-stickers-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/18.webp"
+        },
+        {
+          "id": "retro-stickers-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/19.webp"
+        },
+        {
+          "id": "retro-stickers-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/20.webp"
+        },
+        {
+          "id": "retro-stickers-21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/21.webp"
+        },
+        {
+          "id": "retro-stickers-25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/25.webp"
+        },
+        {
+          "id": "retro-stickers-26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/26.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/26.webp"
+        },
+        {
+          "id": "retro-stickers-27",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/27.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/27.webp"
+        },
+        {
+          "id": "retro-stickers-28",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/28.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/28.webp"
+        },
+        {
+          "id": "retro-stickers-29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/29.webp"
+        },
+        {
+          "id": "retro-stickers-33",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/33.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/33.webp"
+        },
+        {
+          "id": "retro-stickers-34",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/34.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/34.webp"
+        },
+        {
+          "id": "retro-stickers-35",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/35.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/35.webp"
+        },
+        {
+          "id": "retro-stickers-36",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/36.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/36.webp"
+        },
+        {
+          "id": "retro-stickers-37",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/37.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/37.webp"
+        },
+        {
+          "id": "retro-stickers-41",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/41.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/41.webp"
+        },
+        {
+          "id": "retro-stickers-42",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/42.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/42.webp"
+        },
+        {
+          "id": "retro-stickers-43",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/43.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/43.webp"
+        },
+        {
+          "id": "retro-stickers-44",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/44.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/44.webp"
+        },
+        {
+          "id": "retro-stickers-45",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/45.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/45.webp"
+        },
+        {
+          "id": "retro-stickers-49",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/49.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/49.webp"
+        },
+        {
+          "id": "retro-stickers-50",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/50.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/50.webp"
+        },
+        {
+          "id": "retro-stickers-99",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/99.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/99.webp"
+        },
+        {
+          "id": "retro-stickers-100",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/thumbnails/100.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/retro-stickers/hd/100.webp"
+        }
+      ]
+    },
+    {
+      "id": "project-status",
+      "name": "Project Status Stickers",
+      "author": "Iconfinder",
+      "authorUrl": "https://www.figma.com/@Iconfinder",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1128224635870836270/project-status-stickers",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/41.webp",
+      "stickers": [
+        {
+          "id": "project-status-41",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/41.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/41.webp"
+        },
+        {
+          "id": "project-status-42",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/42.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/42.webp"
+        },
+        {
+          "id": "project-status-43",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/43.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/43.webp"
+        },
+        {
+          "id": "project-status-44",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/44.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/44.webp"
+        },
+        {
+          "id": "project-status-45",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/45.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/45.webp"
+        },
+        {
+          "id": "project-status-46",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/46.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/46.webp"
+        },
+        {
+          "id": "project-status-47",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/47.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/47.webp"
+        },
+        {
+          "id": "project-status-48",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/48.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/48.webp"
+        },
+        {
+          "id": "project-status-49",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/49.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/49.webp"
+        },
+        {
+          "id": "project-status-50",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/50.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/50.webp"
+        },
+        {
+          "id": "project-status-51",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/51.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/51.webp"
+        },
+        {
+          "id": "project-status-52",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/52.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/52.webp"
+        },
+        {
+          "id": "project-status-53",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/53.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/53.webp"
+        },
+        {
+          "id": "project-status-54",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/54.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/54.webp"
+        },
+        {
+          "id": "project-status-55",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/55.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/55.webp"
+        },
+        {
+          "id": "project-status-56",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/56.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/56.webp"
+        },
+        {
+          "id": "project-status-57",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/57.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/57.webp"
+        },
+        {
+          "id": "project-status-58",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/58.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/58.webp"
+        },
+        {
+          "id": "project-status-59",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/59.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/59.webp"
+        },
+        {
+          "id": "project-status-60",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/60.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/60.webp"
+        },
+        {
+          "id": "project-status-61",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/61.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/61.webp"
+        },
+        {
+          "id": "project-status-62",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/62.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/62.webp"
+        },
+        {
+          "id": "project-status-63",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/63.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/63.webp"
+        },
+        {
+          "id": "project-status-64",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/64.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/64.webp"
+        },
+        {
+          "id": "project-status-65",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/65.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/65.webp"
+        },
+        {
+          "id": "project-status-66",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/66.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/66.webp"
+        },
+        {
+          "id": "project-status-67",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/67.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/67.webp"
+        },
+        {
+          "id": "project-status-68",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/68.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/68.webp"
+        },
+        {
+          "id": "project-status-69",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/69.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/69.webp"
+        },
+        {
+          "id": "project-status-70",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/70.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/70.webp"
+        },
+        {
+          "id": "project-status-71",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/71.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/71.webp"
+        },
+        {
+          "id": "project-status-72",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/72.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/72.webp"
+        },
+        {
+          "id": "project-status-73",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/73.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/73.webp"
+        },
+        {
+          "id": "project-status-74",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/74.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/74.webp"
+        },
+        {
+          "id": "project-status-75",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/75.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/75.webp"
+        },
+        {
+          "id": "project-status-76",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/76.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/76.webp"
+        },
+        {
+          "id": "project-status-77",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/77.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/77.webp"
+        },
+        {
+          "id": "project-status-78",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/78.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/78.webp"
+        },
+        {
+          "id": "project-status-79",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/79.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/79.webp"
+        },
+        {
+          "id": "project-status-80",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/80.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/80.webp"
+        },
+        {
+          "id": "project-status-81",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/81.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/81.webp"
+        },
+        {
+          "id": "project-status-82",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/82.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/82.webp"
+        },
+        {
+          "id": "project-status-83",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/83.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/83.webp"
+        },
+        {
+          "id": "project-status-84",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/84.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/84.webp"
+        },
+        {
+          "id": "project-status-85",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/85.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/85.webp"
+        },
+        {
+          "id": "project-status-86",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/86.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/86.webp"
+        },
+        {
+          "id": "project-status-87",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/87.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/87.webp"
+        },
+        {
+          "id": "project-status-88",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/88.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/88.webp"
+        },
+        {
+          "id": "project-status-89",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/89.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/89.webp"
+        },
+        {
+          "id": "project-status-90",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/90.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/90.webp"
+        },
+        {
+          "id": "project-status-91",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/91.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/91.webp"
+        },
+        {
+          "id": "project-status-92",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/92.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/92.webp"
+        },
+        {
+          "id": "project-status-93",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/93.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/93.webp"
+        },
+        {
+          "id": "project-status-94",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/94.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/94.webp"
+        },
+        {
+          "id": "project-status-96",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/96.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/96.webp"
+        },
+        {
+          "id": "project-status-97",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/97.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/97.webp"
+        },
+        {
+          "id": "project-status-98",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/98.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/98.webp"
+        },
+        {
+          "id": "project-status-99",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/99.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/99.webp"
+        },
+        {
+          "id": "project-status-100",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/100.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/100.webp"
+        },
+        {
+          "id": "project-status-101",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/101.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/101.webp"
+        },
+        {
+          "id": "project-status-102",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/102.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/102.webp"
+        },
+        {
+          "id": "project-status-103",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/103.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/103.webp"
+        },
+        {
+          "id": "project-status-104",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/104.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/104.webp"
+        },
+        {
+          "id": "project-status-105",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/105.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/105.webp"
+        },
+        {
+          "id": "project-status-106",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/106.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/106.webp"
+        },
+        {
+          "id": "project-status-107",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/107.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/107.webp"
+        },
+        {
+          "id": "project-status-108",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/108.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/108.webp"
+        },
+        {
+          "id": "project-status-109",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/109.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/109.webp"
+        },
+        {
+          "id": "project-status-110",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/110.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/110.webp"
+        },
+        {
+          "id": "project-status-111",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/111.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/111.webp"
+        },
+        {
+          "id": "project-status-112",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/112.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/112.webp"
+        },
+        {
+          "id": "project-status-113",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/113.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/113.webp"
+        },
+        {
+          "id": "project-status-114",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/114.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/114.webp"
+        },
+        {
+          "id": "project-status-115",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/115.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/115.webp"
+        },
+        {
+          "id": "project-status-117",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/117.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/117.webp"
+        },
+        {
+          "id": "project-status-118",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/118.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/118.webp"
+        },
+        {
+          "id": "project-status-119",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/119.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/119.webp"
+        },
+        {
+          "id": "project-status-120",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/120.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/120.webp"
+        },
+        {
+          "id": "project-status-121",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/121.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/121.webp"
+        },
+        {
+          "id": "project-status-122",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/thumbnails/122.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/project-status/hd/122.webp"
+        }
+      ]
+    },
+    {
+      "id": "brix-stickers",
+      "name": "100+ Stickers & Shapes",
+      "author": "BRIX Templates",
+      "authorUrl": "https://www.figma.com/@brixtemplates",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1131717954098372689/100-stickers-shapes-brix-templates",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-1.webp",
+      "stickers": [
+        {
+          "id": "brix-stickers-b0-figure-1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-1.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-2.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-2.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-3.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-3.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-4.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-4.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-5.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-5.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-6.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-6.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-7",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-7.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-7.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-8.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-8.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-9.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-9.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-10.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-11.webp"
+        },
+        {
+          "id": "brix-stickers-b0-figure-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b0-figure-12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b0-figure-12.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-1.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-2.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-2.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-3.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-3.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-4.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-4.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-5.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-5.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-6.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-6.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-7",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-7.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-7.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-8.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-8.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-9.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-9.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-10.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-11.webp"
+        },
+        {
+          "id": "brix-stickers-b1-figure-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b1-figure-12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b1-figure-12.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-1.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-2.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-2.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-3.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-3.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-4.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-4.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-5.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-5.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-6.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-6.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-7",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-7.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-7.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-8.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-8.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-9.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-9.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-10.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-11.webp"
+        },
+        {
+          "id": "brix-stickers-b2-figure-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b2-figure-12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b2-figure-12.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-1-1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-1-1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-1-1.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-2.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-2.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-3.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-3.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-4.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-4.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-5.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-5.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-6.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-6.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-7",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-7.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-7.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-8.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-8.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-9.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-9.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-10.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-11.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-12.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-13.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-14.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-15.webp"
+        },
+        {
+          "id": "brix-stickers-b3-figure-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b3-figure-16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b3-figure-16.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v1.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v2.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v2.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v3.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v3.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v4.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v4.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v5.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v5.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v6.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v6.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v7",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v7.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v7.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v8.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v8.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v9.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v9.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v10.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v11.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v12.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v13.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v14.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v15.webp"
+        },
+        {
+          "id": "brix-stickers-b4-stickers-v16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b4-stickers-v16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b4-stickers-v16.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v01.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v02.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v03.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v04.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v05.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v07",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v07.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v07.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v08.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v10.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v11.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v12.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v13-1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v13-1.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v13-1.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v13.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v14.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v15.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v16.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v17.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v18.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v19.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v20.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v21.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v22.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v22.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v23.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v23.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v24.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v24.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v25.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v26.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v26.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v27",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v27.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v27.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v29.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v30",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v30.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v30.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v31",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v31.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v31.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v32",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v32.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v32.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v33",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v33.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v33.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v34",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v34.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v34.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v35",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v35.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v35.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v36",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v36.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v36.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v37",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v37.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v37.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v38",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v38.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v38.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v39",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v39.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v39.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v40",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v40.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v40.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v41",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v41.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v41.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v42",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v42.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v42.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v43",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v43.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v43.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v44",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v44.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v44.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v45",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v45.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v45.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v46",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v46.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v46.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v48",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v48.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v48.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v49",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v49.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v49.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v50",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v50.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v50.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v51",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v51.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v51.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v52",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v52.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v52.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v53",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v53.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v53.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v54",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v54.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v54.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v55",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v55.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v55.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v56",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v56.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v56.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v57",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v57.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v57.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v58",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v58.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v58.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v59",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v59.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v59.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v60",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v60.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v60.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v61",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v61.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v61.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v62",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v62.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v62.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v63",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v63.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v63.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v64",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v64.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v64.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v65",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v65.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v65.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v66",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v66.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v66.webp"
+        },
+        {
+          "id": "brix-stickers-b5-stickers-v67",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/thumbnails/b5-stickers-v67.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brix-stickers/hd/b5-stickers-v67.webp"
+        }
+      ]
+    },
+    {
+      "id": "y2k-chromed",
+      "name": "Y2K Chromed",
+      "author": "Seeing Watching",
+      "authorUrl": "https://www.figma.com/@seeingwatching",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1457071600671965131/y2k-chromed-free",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-01.webp",
+      "stickers": [
+        {
+          "id": "y2k-chromed-chrome-shape-01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-01.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-02.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-03.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-04.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-05.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-06",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-06.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-06.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-07",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-07.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-07.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-08.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-09.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-10.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-11.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-12.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-13.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-14.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-15.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-16.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-17.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-18.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-19.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-20.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-21.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-22.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-22.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-23.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-23.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-24.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-24.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-25.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-26.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-26.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-27",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-27.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-27.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-28",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-28.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-28.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-29.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-30",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-30.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-30.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-31",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-31.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-31.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-32",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-32.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-32.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-33",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-33.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-33.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-34",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-34.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-34.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-35",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-35.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-35.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-36",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-36.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-36.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-37",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-37.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-37.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-38",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-38.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-38.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-39",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-39.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-39.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-40",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-40.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-40.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-41",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-41.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-41.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-42",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-42.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-42.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-43",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-43.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-43.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-44",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-44.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-44.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-45",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-45.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-45.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-46",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-46.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-46.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-47",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-47.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-47.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-48",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-48.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-48.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-49",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-49.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-49.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-50",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-50.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-50.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-51",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-51.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-51.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-52",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-52.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-52.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-53",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-53.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-53.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-54",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-54.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-54.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-55",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-55.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-55.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-56",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-56.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-56.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-57",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-57.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-57.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-58",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-58.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-58.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-59",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-59.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-59.webp"
+        },
+        {
+          "id": "y2k-chromed-chrome-shape-60",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/thumbnails/chrome-shape-60.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-chromed/hd/chrome-shape-60.webp"
+        }
+      ]
+    },
+    {
+      "id": "y2k-pixel-icons",
+      "name": "Y2K Abstract Pixel Icons",
+      "author": "Seif Designera",
+      "authorUrl": "https://www.figma.com/@digitaltelega",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1622310464019186799/y2k-abstract-pixel-icons",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/01.webp",
+      "stickers": [
+        {
+          "id": "y2k-pixel-icons-01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/01.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/02.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/03.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/04.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/05.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-06",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/06.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/06.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-07",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/07.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/07.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/08.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/09.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/10.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/11.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/12.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/13.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/14.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/15.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/16.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/17.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/18.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/19.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/20.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/21.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/22.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/22.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/23.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/23.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/24.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/24.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/25.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/26.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/26.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-27",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/27.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/27.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-28",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/28.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/28.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/29.webp"
+        },
+        {
+          "id": "y2k-pixel-icons-30",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/thumbnails/30.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-pixel-icons/hd/30.webp"
+        }
+      ]
+    },
+    {
+      "id": "brutalism-elements",
+      "name": "Brutalism Elements",
+      "author": "Seif Designera",
+      "authorUrl": "https://www.figma.com/@digitaltelega",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1638166204238617118/brutalism-elements",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/01.webp",
+      "stickers": [
+        {
+          "id": "brutalism-elements-01",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/01.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/01.webp"
+        },
+        {
+          "id": "brutalism-elements-02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/02.webp"
+        },
+        {
+          "id": "brutalism-elements-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/03.webp"
+        },
+        {
+          "id": "brutalism-elements-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/04.webp"
+        },
+        {
+          "id": "brutalism-elements-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/05.webp"
+        },
+        {
+          "id": "brutalism-elements-06",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/06.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/06.webp"
+        },
+        {
+          "id": "brutalism-elements-07",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/07.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/07.webp"
+        },
+        {
+          "id": "brutalism-elements-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/08.webp"
+        },
+        {
+          "id": "brutalism-elements-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/09.webp"
+        },
+        {
+          "id": "brutalism-elements-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/10.webp"
+        },
+        {
+          "id": "brutalism-elements-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/11.webp"
+        },
+        {
+          "id": "brutalism-elements-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/12.webp"
+        },
+        {
+          "id": "brutalism-elements-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/13.webp"
+        },
+        {
+          "id": "brutalism-elements-14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/14.webp"
+        },
+        {
+          "id": "brutalism-elements-15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/15.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/15.webp"
+        },
+        {
+          "id": "brutalism-elements-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/16.webp"
+        },
+        {
+          "id": "brutalism-elements-17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/17.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/17.webp"
+        },
+        {
+          "id": "brutalism-elements-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/18.webp"
+        },
+        {
+          "id": "brutalism-elements-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/19.webp"
+        },
+        {
+          "id": "brutalism-elements-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/brutalism-elements/hd/20.webp"
+        }
+      ]
     }
   ]
 }
