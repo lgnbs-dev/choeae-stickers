@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "y2k-hologram",
+      "name": "Y2K Hologram Badges",
+      "author": "Design Garage",
+      "authorUrl": "https://www.figma.com/@des_garage",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1386684185250424926/y2k-hologram-badge-stickers-free",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/03.webp",
+      "stickers": [
+        {
+          "id": "y2k-hologram-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/03.webp"
+        },
+        {
+          "id": "y2k-hologram-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/04.webp"
+        },
+        {
+          "id": "y2k-hologram-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/05.webp"
+        },
+        {
+          "id": "y2k-hologram-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/08.webp"
+        },
+        {
+          "id": "y2k-hologram-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/09.webp"
+        },
+        {
+          "id": "y2k-hologram-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/10.webp"
+        },
+        {
+          "id": "y2k-hologram-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/13.webp"
+        },
+        {
+          "id": "y2k-hologram-14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/14.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/14.webp"
+        },
+        {
+          "id": "y2k-hologram-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/18.webp"
+        },
+        {
+          "id": "y2k-hologram-19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/19.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/19.webp"
+        },
+        {
+          "id": "y2k-hologram-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/y2k-hologram/hd/20.webp"
+        }
+      ]
+    },
+    {
+      "id": "grunged-peeled",
+      "name": "GRUNGED Peeled Stickers",
+      "author": "Artsem Pachabut",
+      "authorUrl": "https://www.figma.com/@artyompochebut",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.figma.com/community/file/1240354284418405901/grunged-peeled-stickers-free",
+      "coverThumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/02.webp",
+      "stickers": [
+        {
+          "id": "grunged-peeled-02",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/02.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/02.webp"
+        },
+        {
+          "id": "grunged-peeled-03",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/03.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/03.webp"
+        },
+        {
+          "id": "grunged-peeled-04",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/04.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/04.webp"
+        },
+        {
+          "id": "grunged-peeled-05",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/05.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/05.webp"
+        },
+        {
+          "id": "grunged-peeled-06",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/06.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/06.webp"
+        },
+        {
+          "id": "grunged-peeled-08",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/08.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/08.webp"
+        },
+        {
+          "id": "grunged-peeled-09",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/09.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/09.webp"
+        },
+        {
+          "id": "grunged-peeled-10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/10.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/10.webp"
+        },
+        {
+          "id": "grunged-peeled-11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/11.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/11.webp"
+        },
+        {
+          "id": "grunged-peeled-12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/12.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/12.webp"
+        },
+        {
+          "id": "grunged-peeled-13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/13.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/13.webp"
+        },
+        {
+          "id": "grunged-peeled-16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/16.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/16.webp"
+        },
+        {
+          "id": "grunged-peeled-18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/18.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/18.webp"
+        },
+        {
+          "id": "grunged-peeled-20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/20.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/20.webp"
+        },
+        {
+          "id": "grunged-peeled-21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/21.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/21.webp"
+        },
+        {
+          "id": "grunged-peeled-22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/22.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/22.webp"
+        },
+        {
+          "id": "grunged-peeled-23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/23.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/23.webp"
+        },
+        {
+          "id": "grunged-peeled-24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/24.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/24.webp"
+        },
+        {
+          "id": "grunged-peeled-25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/25.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/25.webp"
+        },
+        {
+          "id": "grunged-peeled-26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/26.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/26.webp"
+        },
+        {
+          "id": "grunged-peeled-28",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/28.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/28.webp"
+        },
+        {
+          "id": "grunged-peeled-29",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/29.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/29.webp"
+        },
+        {
+          "id": "grunged-peeled-30",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/thumbnails/30.webp",
+          "hdUrl": "https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/packs/grunged-peeled/hd/30.webp"
+        }
+      ]
+    }
+  ]
+}
