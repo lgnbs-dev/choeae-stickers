@@ -423,6 +423,16 @@ On-demand sticker packs for Choeae (served via [jsDelivr](https://www.jsdelivr.c
 https://cdn.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/list.json
 \`\`\`
 
+## Purge CDN cache
+
+After pushing to \`main\`, purge jsDelivr so clients pick up the new \`list.json\` immediately:
+
+\`\`\`bash
+curl https://purge.jsdelivr.net/gh/lgnbs-dev/choeae-stickers@main/list.json
+\`\`\`
+
+Or use the [purge tool](https://www.jsdelivr.com/tools/purge).
+
 ## Attribution
 
 These packs are **CC BY 4.0**. Credit the original authors when redistributing.
