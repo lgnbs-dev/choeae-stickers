@@ -1,0 +1,23 @@
+{
+  "name": "choeae-stickers",
+  "version": "1.0.0",
+  "description": "On-demand sticker packs for Choeae (served via [jsDelivr](https://www.jsdelivr.com/github)).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgnbs-dev/choeae-stickers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgnbs-dev/choeae-stickers/issues"
+  },
+  "homepage": "https://github.com/lgnbs-dev/choeae-stickers#readme",
+  "devDependencies": {
+    "sharp": "^0.35.3"
+  }
+}

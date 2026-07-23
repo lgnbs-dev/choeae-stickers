@@ -11,18 +11,29 @@ const WEBP_HD_QUALITY = 82;
 const WEBP_THUMB_QUALITY = 75;
 
 const PACKS = [
-  {
-    id: 'y2k-hologram',
-    name: 'Y2K Hologram Badges',
-    author: 'Design Garage',
-    authorUrl: 'https://www.figma.com/@des_garage',
+{
+    id: 'y2k-elements',
+    name: 'Y2K Elements',
+    author: 'Алина Ревазян',
+    authorUrl: 'https://www.figma.com/@63671c80_51f1_4',
     license: 'CC BY 4.0',
     licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
-    sourceUrl:
-      'https://www.figma.com/community/file/1386684185250424926/y2k-hologram-badge-stickers-free',
-    sourceDir: '/Users/ivanpang/Downloads/Y2K Hologram Badge Stickers FREE (Community)',
+    sourceUrl: 'https://www.figma.com/community/file/1555322950361847099/y2k-elements',
+    sourceDir: '/Users/ivanpang/Downloads/y2k elements (Community)',
+    coverSlug: 'planeta',
   },
-  {
+{
+    id: 'cats',
+    name: 'Cats',
+    author: 'Valentina',
+    authorUrl: 'https://www.figma.com/@valenty63',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl: 'https://www.figma.com/community/file/1350875841892893027/the-best-memes-with-cats',
+    sourceDir: '/Users/ivanpang/Downloads/The best memes with cats (Community)',
+    coverSlug: 'happy-cat-01',
+  },
+{
     id: 'grunged-peeled',
     name: 'GRUNGED Peeled Stickers',
     author: 'Artsem Pachabut',
@@ -33,7 +44,46 @@ const PACKS = [
       'https://www.figma.com/community/file/1240354284418405901/grunged-peeled-stickers-free',
     sourceDir: '/Users/ivanpang/Downloads/GRUNGED peeled stickers FREE (Community)',
   },
-  {
+{
+    id: 'vintage-y2k-frames',
+    name: 'Vintage & Y2K Frames',
+    author: 'Vlada',
+    authorUrl: 'https://www.figma.com/@vladamoto',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl:
+      'https://www.figma.com/community/file/1646469205666975543/set-of-vintage-y2k-frames-from-tg-blog-visualllculture',
+    sourceDirs: [
+      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community)',
+      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (1)',
+      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (2)',
+      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (3)',
+    ],
+  },
+{
+    id: 'hand-drawn-emojis',
+    name: 'Hand Drawn Emojis Illustration Pack',
+    author: 'Isaiah Trotter',
+    authorUrl: 'https://www.figma.com/@isaiahtrotter1',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl:
+      'https://www.figma.com/community/file/1280863093339672805/hand-drawn-emojis-illustration-pack',
+    sourceDir: '/Users/ivanpang/Downloads/Hand Drawn Emojis Illustration Pack (Community)',
+    coverSlug: 'surprised',
+  },
+{
+    id: 'y2k-hologram',
+    name: 'Y2K Hologram Badges',
+    author: 'Design Garage',
+    authorUrl: 'https://www.figma.com/@des_garage',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+    sourceUrl:
+      'https://www.figma.com/community/file/1386684185250424926/y2k-hologram-badge-stickers-free',
+    sourceDir: '/Users/ivanpang/Downloads/Y2K Hologram Badge Stickers FREE (Community)',
+  },
+{
     id: 'free-stickers',
     name: 'Free Stickers Pack',
     author: 'Sergey Korobkoff',
@@ -43,7 +93,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1115952276212246903/free-stickers-pack',
     sourceDir: '/Users/ivanpang/Downloads/Free Stickers pack (Community)',
   },
-  {
+{
     id: 'word-clippings',
     name: 'Word Clippings Retro Stickers',
     author: 'Dirtybarn',
@@ -54,7 +104,7 @@ const PACKS = [
       'https://www.figma.com/community/file/1455532408821014814/word-clippings-retro-stickers-free',
     sourceDir: '/Users/ivanpang/Downloads/Word Clippings - Retro Stickers FREE (Community)',
   },
-  {
+{
     id: 'retro-stickers',
     name: 'Retro Stickers',
     author: 'Design Garage',
@@ -64,7 +114,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1358236713751987058/retro-stickers-free',
     sourceDir: '/Users/ivanpang/Downloads/🖖 RETRO  STICKERS FREE (Community)',
   },
-  {
+{
     id: 'project-status',
     name: 'Project Status Stickers',
     author: 'Iconfinder',
@@ -74,7 +124,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1128224635870836270/project-status-stickers',
     sourceDir: '/Users/ivanpang/Downloads/Project status stickers (Community)',
   },
-  {
+{
     id: 'brix-stickers',
     name: '100+ Stickers & Shapes',
     author: 'BRIX Templates',
@@ -93,7 +143,7 @@ const PACKS = [
       '/Users/ivanpang/Downloads/100+ Stickers & Shapes _ BRIX Templates (Community) (5)',
     ],
   },
-  {
+{
     id: 'y2k-chromed',
     name: 'Y2K Chromed',
     author: 'Seeing Watching',
@@ -103,7 +153,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1457071600671965131/y2k-chromed-free',
     sourceDir: '/Users/ivanpang/Downloads/Y2k chromed free (Community)',
   },
-  {
+{
     id: 'y2k-pixel-icons',
     name: 'Y2K Abstract Pixel Icons',
     author: 'Seif Designera',
@@ -113,7 +163,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1622310464019186799/y2k-abstract-pixel-icons',
     sourceDir: '/Users/ivanpang/Downloads/Y2K Abstract Pixel Icons (Community)',
   },
-  {
+{
     id: 'brutalism-elements',
     name: 'Brutalism Elements',
     author: 'Seif Designera',
@@ -123,23 +173,7 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1638166204238617118/brutalism-elements',
     sourceDir: '/Users/ivanpang/Downloads/Brutalism Elements (Community)',
   },
-  {
-    id: 'vintage-y2k-frames',
-    name: 'Vintage & Y2K Frames',
-    author: 'Vlada',
-    authorUrl: 'https://www.figma.com/@vladamoto',
-    license: 'CC BY 4.0',
-    licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
-    sourceUrl:
-      'https://www.figma.com/community/file/1646469205666975543/set-of-vintage-y2k-frames-from-tg-blog-visualllculture',
-    sourceDirs: [
-      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community)',
-      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (1)',
-      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (2)',
-      '/Users/ivanpang/Downloads/SET OF VINTAGE & Y2K FRAMES __ FROM_ TG-BLOG @VISUALLLCULTURE ⌒☆ (Community) (3)',
-    ],
-  },
-  {
+{
     id: 'acid-graphics',
     name: 'Acid Graphics',
     author: 'Artsem Pachabut',
@@ -149,10 +183,60 @@ const PACKS = [
     sourceUrl: 'https://www.figma.com/community/file/1607756253697616515/acid-graphics-free-45-png-pack',
     sourceDir: '/Users/ivanpang/Downloads/Acid Graphics Free — 45+ PNG Pack (Community)',
   },
-];
+]
+
+const CYRILLIC_TO_LATIN = {
+  а: 'a',
+  б: 'b',
+  в: 'v',
+  г: 'g',
+  д: 'd',
+  е: 'e',
+  ё: 'yo',
+  ж: 'zh',
+  з: 'z',
+  и: 'i',
+  й: 'y',
+  к: 'k',
+  л: 'l',
+  м: 'm',
+  н: 'n',
+  о: 'o',
+  п: 'p',
+  р: 'r',
+  с: 's',
+  т: 't',
+  у: 'u',
+  ф: 'f',
+  х: 'kh',
+  ц: 'ts',
+  ч: 'ch',
+  ш: 'sh',
+  щ: 'shch',
+  ъ: '',
+  ы: 'y',
+  ь: '',
+  э: 'e',
+  ю: 'yu',
+  я: 'ya',
+};
+
+function transliterate(text) {
+  return text
+    .split('')
+    .map((ch) => {
+      const lower = ch.toLowerCase();
+      if (Object.prototype.hasOwnProperty.call(CYRILLIC_TO_LATIN, lower)) {
+        const latin = CYRILLIC_TO_LATIN[lower];
+        return ch === lower ? latin : latin.toUpperCase();
+      }
+      return ch;
+    })
+    .join('');
+}
 
 function slugFromFilename(filename) {
-  const base = path.basename(filename, path.extname(filename));
+  const base = transliterate(path.basename(filename, path.extname(filename)));
   // Prefer full descriptive slug when the name has text (e.g. "01 Hot", "Figure 1").
   // Fall back to trailing digits only for bare numbered exports like "03.png".
   if (/[a-zA-Z]/.test(base)) {
@@ -168,6 +252,19 @@ function slugFromFilename(filename) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '');
+}
+
+function uniqueSlug(baseSlug, used) {
+  let slug = baseSlug || 'sticker';
+  if (!used.has(slug)) {
+    used.add(slug);
+    return slug;
+  }
+  let n = 2;
+  while (used.has(`${slug}-${n}`)) n += 1;
+  const next = `${slug}-${n}`;
+  used.add(next);
+  return next;
 }
 
 function sha1File(filePath) {
@@ -213,16 +310,44 @@ async function convertOne(srcPath, hdPath, thumbPath) {
     .toFile(thumbPath);
 }
 
+function sourcesAvailable(pack) {
+  const dirs = pack.sourceDirs ?? (pack.sourceDir ? [pack.sourceDir] : []);
+  return dirs.length > 0 && dirs.every((dir) => fs.existsSync(dir));
+}
+
 async function main() {
-  // Keep .git / scripts; only rebuild pack assets + catalog.
+  // Keep .git / scripts; rebuild pack assets + catalog.
+  // Optional: `node scripts/build.mjs y2k-elements` rebuilds only that pack.
+  const onlyIds = new Set(process.argv.slice(2));
   const packsRoot = path.join(OUT, 'packs');
-  fs.rmSync(packsRoot, { recursive: true, force: true });
+  const listPath = path.join(OUT, 'list.json');
+  const existingCatalog = fs.existsSync(listPath)
+    ? JSON.parse(fs.readFileSync(listPath, 'utf8'))
+    : { version: 1, packs: [] };
+  const existingById = new Map(existingCatalog.packs.map((p) => [p.id, p]));
+
+  const packsToBuild = PACKS.filter((pack) => {
+    if (onlyIds.size > 0 && !onlyIds.has(pack.id)) return false;
+    if (!sourcesAvailable(pack)) {
+      if (onlyIds.has(pack.id)) {
+        throw new Error(`Source missing for ${pack.id}`);
+      }
+      console.log(`${pack.id}: skip (source missing, keep existing)`);
+      return false;
+    }
+    return true;
+  });
+
+  if (onlyIds.size === 0 && packsToBuild.length === PACKS.length) {
+    fs.rmSync(packsRoot, { recursive: true, force: true });
+  }
   fs.mkdirSync(packsRoot, { recursive: true });
 
-  const catalog = { version: 1, packs: [] };
+  const builtById = new Map();
 
-  for (const pack of PACKS) {
+  for (const pack of packsToBuild) {
     const packRoot = path.join(OUT, 'packs', pack.id);
+    fs.rmSync(packRoot, { recursive: true, force: true });
     const hdDir = path.join(packRoot, 'hd');
     const thumbDir = path.join(packRoot, 'thumbnails');
     fs.mkdirSync(hdDir, { recursive: true });
@@ -231,6 +356,7 @@ async function main() {
     const multiDir = Array.isArray(pack.sourceDirs) && pack.sourceDirs.length > 0;
     const sources = listPngSources(pack);
     const seen = new Set();
+    const usedSlugs = new Set();
     const stickers = [];
 
     for (const entry of sources) {
@@ -242,7 +368,8 @@ async function main() {
       seen.add(hash);
 
       const baseSlug = slugFromFilename(entry.file);
-      const slug = multiDir ? `b${entry.batch}-${baseSlug}` : baseSlug;
+      const prefixed = multiDir ? `b${entry.batch}-${baseSlug}` : baseSlug;
+      const slug = uniqueSlug(prefixed, usedSlugs);
       const filename = `${slug}.webp`;
       await convertOne(entry.src, path.join(hdDir, filename), path.join(thumbDir, filename));
       stickers.push({
@@ -253,7 +380,10 @@ async function main() {
       console.log(`${pack.id}: ${entry.file} -> ${filename}`);
     }
 
-    catalog.packs.push({
+    const cover =
+      (pack.coverSlug && stickers.find((s) => s.id === `${pack.id}-${pack.coverSlug}`)) ||
+      stickers[0];
+    builtById.set(pack.id, {
       id: pack.id,
       name: pack.name,
       author: pack.author,
@@ -261,12 +391,27 @@ async function main() {
       license: pack.license,
       licenseUrl: pack.licenseUrl,
       sourceUrl: pack.sourceUrl,
-      coverThumbnailUrl: stickers[0]?.thumbnailUrl ?? '',
+      coverThumbnailUrl: cover?.thumbnailUrl ?? '',
       stickers,
     });
   }
 
+  const catalog = {
+    version: 1,
+    packs: PACKS.map((pack) => {
+      if (builtById.has(pack.id)) return builtById.get(pack.id);
+      const existing = existingById.get(pack.id);
+      if (existing) return existing;
+      throw new Error(`Missing pack data for ${pack.id} (no sources and not in list.json)`);
+    }),
+  };
+
   fs.writeFileSync(path.join(OUT, 'list.json'), JSON.stringify(catalog, null, 2) + '\n');
+
+  const attributionRows = PACKS.map(
+    (p) =>
+      `| ${p.name} | [${p.author}](${p.authorUrl}) | [Figma Community](${p.sourceUrl}) | [CC BY 4.0](${p.licenseUrl}) |`,
+  ).join('\n');
 
   const readme = `# choeae-stickers
 
@@ -284,18 +429,7 @@ These packs are **CC BY 4.0**. Credit the original authors when redistributing.
 
 | Pack | Author | Source | License |
 |------|--------|--------|---------|
-| Y2K Hologram Badges | [Design Garage](https://www.figma.com/@des_garage) | [Figma Community](https://www.figma.com/community/file/1386684185250424926/y2k-hologram-badge-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| GRUNGED Peeled Stickers | [Artsem Pachabut](https://www.figma.com/@artyompochebut) | [Figma Community](https://www.figma.com/community/file/1240354284418405901/grunged-peeled-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Free Stickers Pack | [Sergey Korobkoff](https://www.figma.com/@korobkoff) | [Figma Community](https://www.figma.com/community/file/1115952276212246903/free-stickers-pack) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Word Clippings Retro Stickers | [Dirtybarn](https://dirtybarn.com/) | [Figma Community](https://www.figma.com/community/file/1455532408821014814/word-clippings-retro-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Retro Stickers | [Design Garage](https://www.figma.com/@des_garage) | [Figma Community](https://www.figma.com/community/file/1358236713751987058/retro-stickers-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Project Status Stickers | [Iconfinder](https://www.figma.com/@Iconfinder) | [Figma Community](https://www.figma.com/community/file/1128224635870836270/project-status-stickers) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 100+ Stickers & Shapes | [BRIX Templates](https://www.figma.com/@brixtemplates) | [Figma Community](https://www.figma.com/community/file/1131717954098372689/100-stickers-shapes-brix-templates) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Y2K Chromed | [Seeing Watching](https://www.figma.com/@seeingwatching) | [Figma Community](https://www.figma.com/community/file/1457071600671965131/y2k-chromed-free) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Y2K Abstract Pixel Icons | [Seif Designera](https://www.figma.com/@digitaltelega) | [Figma Community](https://www.figma.com/community/file/1622310464019186799/y2k-abstract-pixel-icons) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Brutalism Elements | [Seif Designera](https://www.figma.com/@digitaltelega) | [Figma Community](https://www.figma.com/community/file/1638166204238617118/brutalism-elements) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Vintage & Y2K Frames | [Vlada](https://www.figma.com/@vladamoto) | [Figma Community](https://www.figma.com/community/file/1646469205666975543/set-of-vintage-y2k-frames-from-tg-blog-visualllculture) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Acid Graphics | [Artsem Pachabut](https://www.figma.com/@artyompochebut) | [Figma Community](https://www.figma.com/community/file/1607756253697616515/acid-graphics-free-45-png-pack) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+${attributionRows}
 
 ## Layout
 
